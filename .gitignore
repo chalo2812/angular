@@ -46,3 +46,6 @@ testem.log
 Thumbs.db
 ngsw-config.json
 src/manifest.webmanifest
+package-lock.json
+.editorconfig
+src/assets/.gitkeep
